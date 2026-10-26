@@ -1,11 +1,21 @@
+
+</body> </html>
 <!DOCTYPE html>
 
-<html lang="fr"> <head>
+<html lang="fr">
+
+<head>
 
 <meta charset="UTF-8">
 
-<title>Ma page Bonjour</title>
+<title> DenDen </title>
 
-</head> <body> <p>Bonjour</p>
+</head>
 
-</body> </html>
+<body>
+
+<p>La consommation à DenDen</p>
+
+</body>
+
+</html>
